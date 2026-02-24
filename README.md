@@ -60,7 +60,7 @@ Model graph:
 Open Circuit:
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7844626e-00fb-4181-a23d-b80ff54a6583" />
-![WhatsApp Image 2026-02-24 at 8 43 57 PM](https://github.com/user-attachments/assets/e8e6550b-3cfb-4ccc-a6f7-1b0fc17d0241)
+<img width="988" height="1396" alt="image" src="https://github.com/user-attachments/assets/8541b8bf-222a-4f91-98c6-358626995cc3" />
 
 
 Load Circuit:
